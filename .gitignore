@@ -42,13 +42,17 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-/History/
-/Project Logs for vehRec/
-/Project Outputs for vehRec/
+/hardware/History/
+/hardware/Project Logs for vehRec/
+/hardware/Project Outputs for vehRec/
 *.SchDocPreview
 *.PcbDocPreview
 *.pdf
 *.PrjPCBStructure
 *.OutJob
 *.scc
+/Listings/
+/Output/
+*.FantasY
+
 
