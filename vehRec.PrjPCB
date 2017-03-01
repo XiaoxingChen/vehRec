@@ -154,6 +154,9 @@ ClassGenNCAutoScope=None
 DocumentPath=Project Outputs for vehRec\Design Rule Check - vehRec.html
 
 [GeneratedDocument2]
+DocumentPath=..\..\..\engneering\electronics\project\zhaoyueRobot\switchModuleV1.1\switchModule.PcbDoc.htm
+
+[GeneratedDocument3]
 DocumentPath=..\..\..\engneering\electronics\project\zhaoyueRobot\UWB\UWB.PcbDoc.htm
 
 [Generic_SmartPDF]
