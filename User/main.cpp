@@ -12,7 +12,6 @@ int main(void)
 	Console::Instance()->printf("\r\nReboot Now\r\n");
 
 	InitWatchDog(5000);
-	
 	while(1)
 	{
 		Console::Instance()->runTransmitter();
